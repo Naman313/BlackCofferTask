@@ -1,0 +1,26 @@
+.text11 {
+    margin: 0 0 20px 20px;
+    width: 100%;
+    height: 61px;
+    top: 2424px;
+    left: 385px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(89, 89, 80, 1);
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60.51px;
+    text-decoration-skip-ink: none;
+}
+
+.text12 {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48.41px;
+    text-align: left;
+    margin: 0 0 20px 20px;
+}
+
+img {
+    margin: 0 40px 20px 20px;
+}

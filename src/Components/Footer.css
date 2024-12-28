@@ -1,0 +1,10 @@
+.FooterContainer{
+    transform: translateY(-30px);
+    display: flex;
+    flex-direction: row;
+
+}
+
+.giffy{
+    transform: translateX(-100%)
+}

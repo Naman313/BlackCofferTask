@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-wrap: nowrap; 
+    justify-content: center; 
+    margin: 20px 20px 40px 20px;
+    gap: 20px; 
+}
+
+.contain {
+    margin: 80px 0px 20px 10px;
+    gap: 0px; 
+}
+
+.contain img {
+    width: 100px;
+    height: auto; 
+    margin-bottom: 10px; 
+}
+
+.text1 {
+    margin: 0 0 20px 0;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center; 
+    color: rgba(255, 255, 255, 1);
+}
+
+.text2 {
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 28px;
+    color: rgba(255, 255, 255, 1);
+}
